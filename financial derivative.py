@@ -1,5 +1,5 @@
 import math
-
+ 
 # Define a class for the derivative
 class Derivative:
     def __init__(self, underlying_price, strike_price, time_to_maturity, volatility, risk_free_rate):
